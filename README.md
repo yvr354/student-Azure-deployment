@@ -1,7 +1,10 @@
 ## End to End MAchine Learning Project
 
 End to End MAchine Learning Project
+
+
 Run from terminal:
+
 docker build -t testdockerkrish.azurecr.io/mltest:latest .
 
 docker login testdockerkrish.azurecr.io
